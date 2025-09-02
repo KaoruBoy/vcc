@@ -1,28 +1,21 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"Kaoru's VCC Repo",
+    "id":"io.github.kaoruboy.vcc",
+    "url":"https://kaoruboy.github.io/vcc/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"kaoruboyvrc@gmail.com",
+        "name":"Kaoru",
+        "url":"https://kaoruboy.github.io"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"VCC Repo for my assets",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
+        "url":"https://github.com/KaoruBoy",
+        "text":"GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "kaoruboy/VRC-Expression-Menu-As-Code"
     ],
     "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
     ]
 }
